@@ -1,0 +1,37 @@
+h1 {
+    font-weight: normal;
+    font-size: 32px;
+    font-family: 'Microsoft yahei';
+    text-align: center;
+    text-decoration: none;
+}
+.grey {
+    color: gray;
+    font-size: 12px;
+    text-align: center;
+}
+.purple {
+    color: purple;
+    text-decoration: none;
+}
+p {
+    text-indent: 2em;
+    line-height: 26px;
+}
+.v {
+    text-align: center;
+}
+.gray {
+    color: gray;
+    font-size: 12px;
+    text-indent: 2em;
+}
+.btn {
+    font-weight: bold;
+}
+.search {
+    color: #666;
+    /* #666666     #666
+    #ff00ff    #f0f */
+    width: 170px;
+}
